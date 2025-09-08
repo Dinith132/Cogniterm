@@ -1,0 +1,6 @@
+[submodule "Cogniterm_Agents"]
+	path = Cogniterm_Agents
+	url = https://github.com/Dinith132/Cogniterm_Agents.git
+[submodule "Cogniterm_Electron"]
+	path = Cogniterm_Electron
+	url = https://github.com/Dinith132/Cogniterm_Electron.git
