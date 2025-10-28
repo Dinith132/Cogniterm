@@ -53,7 +53,7 @@ Acts as a secure gateway between the Electron frontend and Python backend.
 Cross-platform terminal-style interface with real-time execution feedback.
 
 - Built with **Electron + xterm**
-- Supports **Windows, macOS, Linux**
+- Supports **Linux**
 - Live ANSI-colored output rendering
 - Secure login flow via Spring Boot
 - Real-time progress streaming over WebSocket
