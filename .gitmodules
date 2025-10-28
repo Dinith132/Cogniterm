@@ -4,3 +4,6 @@
 [submodule "Cogniterm_Electron"]
 	path = Cogniterm_Electron
 	url = https://github.com/Dinith132/Cogniterm_Electron.git
+[submodule "Cognierm_Spring_Proxy"]
+	path = Cognierm_Spring_Proxy
+	url = https://github.com/Dinith132/Cogniterm_StpingBoot_BE.git
